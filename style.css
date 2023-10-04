@@ -16,6 +16,12 @@
 body {
   font-size: 18px;
   font-family: "Hanken Grotesk", sans-serif;
+  position: relative;
+  min-height: 100vh;
+}
+
+.container {
+  padding-bottom: 30px;
 }
 
 /* HEADER */
