@@ -162,6 +162,7 @@ button {
     align-items: center;
     box-shadow: 2px 3px 10px 0px rgba(0, 0, 0, 0.1);
     border-radius: 30px;
+    padding-bottom: 0;
   }
 
   header,
